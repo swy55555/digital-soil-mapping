@@ -1,0 +1,20 @@
+Package: ithir
+Type: Package
+Title: Soil data and some useful associated functions.
+Version: 1.0
+Date: 2015-06-04
+Author: Brendan Malone
+Maintainer: Brendan Malone <brendan.malone@sydney.edu.au>
+Description: A collection of various sol data in various forms, plus a few useful pedometric functions too.
+Depends: R (>= 3.0.1)
+Imports: methods, raster, sp
+Suggests: MASS, rgdal, maptools
+License: GPL-2
+LazyData: no
+Built: R 3.3.3; ; 2017-03-08 15:20:20 UTC; windows
+RemoteType: bitbucket
+RemoteRepo: ithir
+RemoteUsername: brendo1001
+RemoteRef: master
+RemoteSha: 51a5fb39951c327376ae473dff29a1497d67cf10
+RemoteSubdir: pkg

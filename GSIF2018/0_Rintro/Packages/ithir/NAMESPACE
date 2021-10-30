@@ -1,0 +1,9 @@
+import("methods")
+import("raster")
+
+export(ea_spline)
+export(bbRaster)
+export(plot_soilProfile)
+export(plot_ea_spline)
+export(goof)
+export(goofcat)
